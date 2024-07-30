@@ -1,5 +1,4 @@
-# Elemantal-Party-Game
-Overview
+# Elemantal-Party-Game Overview
 
 This project is an online multiplayer game developed as my final project in the third year of my studies. I was the sole developer, responsible for all aspects of the game including networking, mechanics, and design.
 
